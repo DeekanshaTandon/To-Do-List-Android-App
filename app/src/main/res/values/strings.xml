@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TODO List</string>
+
+    <string name="btnAdd_display">Add</string>
+</resources>
